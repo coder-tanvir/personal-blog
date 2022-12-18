@@ -122,6 +122,7 @@ header{
 footer{
     width:73%;
     margin:auto;
+    padding:.3em;
     background-color:#070170;
     text-align:center;
     color:white;
